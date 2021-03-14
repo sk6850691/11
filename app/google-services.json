@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "51604350662",
+    "firebase_url": "https://ratahbus-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "ratahbus",
+    "storage_bucket": "ratahbus.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:51604350662:android:22132f1274529e8a07d9c7",
+        "android_client_info": {
+          "package_name": "com.ratahub.dating"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "51604350662-qq3uen5k3kfefc13n51i7ru4domc0rjf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHy-qugQMAth2HBGpbgst6ud1Y_XyIN_4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "51604350662-qq3uen5k3kfefc13n51i7ru4domc0rjf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:51604350662:android:d4e0ef277c9d373007d9c7",
+        "android_client_info": {
+          "package_name": "com.ratahub.production"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "51604350662-rqi0ungug0ukf237saidg8legehgjmjk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ratahub.production",
+            "certificate_hash": "4e0915da39e402c417f735b6663ebbd4cca7b6dc"
+          }
+        },
+        {
+          "client_id": "51604350662-qq3uen5k3kfefc13n51i7ru4domc0rjf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHy-qugQMAth2HBGpbgst6ud1Y_XyIN_4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "51604350662-qq3uen5k3kfefc13n51i7ru4domc0rjf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
